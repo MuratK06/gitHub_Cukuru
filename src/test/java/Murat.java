@@ -6,6 +6,8 @@ public class Murat {
 
         System.out.println("1. guncelleme");
 
+        System.out.println("2. gucelleme");
+
 
     }
 }
